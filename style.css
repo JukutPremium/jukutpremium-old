@@ -13,7 +13,7 @@
 }
 
 .container {
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     background-image: url(assets/image.png);
     background-size: 100vh;
@@ -154,8 +154,8 @@
     transform: scale(1.050);
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 700px) {
    .profile-card {
-    margin: 500rem;
+    margin: 50%;
    }
   }
