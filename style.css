@@ -153,3 +153,9 @@
     background-color: #ff6f43;
     transform: scale(1.050);
 }
+
+@media only screen and (max-width: 500px) {
+   .profile-card {
+    margin: 500rem;
+   }
+  }
