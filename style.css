@@ -56,7 +56,7 @@
 
 .profile-footer {
     background-color: #fff;
-    height: 12rem;
+    height: 15rem;
     margin-right: -5.64rem;
     margin-left: -5.64rem;
     margin-bottom: -2.5rem;
@@ -150,6 +150,26 @@
 }
 
 .cpCSS:hover {
+    background-color: #ff6f43;
+    transform: scale(1.050);
+}
+
+/* PHP */
+
+.pbPHP {
+    background-color: aliceblue;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin: 0px 25px 0px 25px;
+}
+.cpPHP {
+    width: 27%;
+    background-color: #FF9843;
+    border-radius: 20px;
+    transition: .8s;
+}
+
+.cpPHP:hover {
     background-color: #ff6f43;
     transform: scale(1.050);
 }
