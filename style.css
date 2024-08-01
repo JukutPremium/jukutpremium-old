@@ -8,6 +8,10 @@
     overflow: hidden;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 :root {
     --main: #FF9843;
 }
